@@ -1,0 +1,19 @@
+---> cd c:
+
+---> cd nome da pasta
+(acessa pasta criada para compartilhamento no hithub)
+
+---> git config --global user.name "nome do usuário github"
+(configura o nome do usuário do hithub criado)
+
+---> git config --global user.email "email cadastrado no git"
+(configura o email )
+
+---> git clone https://github.com/endereço no hithub completo com .git no final
+(clona a pasta criada com o endereço no hit hub)
+
+---> 
+
+
+
+
