@@ -12,7 +12,18 @@
 ---> git clone https://github.com/endereço no hithub completo com .git no final
 (clona a pasta criada com o endereço no hit hub)
 
----> 
+---> git add nome do arquivo.xxx
+(envia o arquivo. Importante estar dentro do diretorio onde encontrase o arquivo - pasta master)
+
+---> git commit -m "mensagem do commit" nome do arquivo.xxx
+(realiza o commit inserindo também a observação
+
+---> git push -u origin master
+(carrega o arquivo para o hit hub)
+
+---> git status
+(informa se há algum commit para fazer)
+
 
 
 
